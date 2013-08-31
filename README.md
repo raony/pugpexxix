@@ -14,7 +14,7 @@ looking to this list, I can see the value of things going down as you
 go up, with the costs surpassing the benefits at some point around
 mini dsls and pure syntactc sugar.
 
-the costs of doing metaprogramming, obviously, is manutenability.
+the costs of doing metaprogramming, obviously, is maintainability.
 
 so, take a look at the classes here, this is the designed way of doing this:
 
