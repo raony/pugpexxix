@@ -53,4 +53,4 @@ learn more about aspected oriented programming and its predecessors to
 have a more clear idea of how to use metaprogramming properly.
 
 __short hint: if it is your business logic, and you are using metaprogramming,
-you're probably gonna have a bad time. __
+you're probably gonna have a bad time.__
