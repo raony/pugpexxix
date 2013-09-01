@@ -1,5 +1,13 @@
 # Mini DSL
 
+# Here you will see the same behavior as minidsl.py but without descriptor,
+# metaclasses or exec calls.
+
+# we just override the __setattr__ of the and we're good.
+
+# the point of this code is to show to you that we still can make nice
+# things without having to use metaprogramming mindblowlity.
+
 class Validated(object):
     rules = {}
 
